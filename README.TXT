@@ -15,11 +15,3 @@ all he/she needs to know. The comments should usually include at least:
    have a mine. From this, the player can often learn more about the location of mines, and
    place a flag on the locations where mines are believed to exist. The goal of the game is to
    find all the mines without causing any of them to explode.  
-
-   VERSION or DATE:Apr 22nd, 2016
-
-   HOW TO START THIS PROJECT:Same as lab 7
-
-   AUTHORS:Anh Chau Pham
-
-   USER INSTRUCTIONS:Right click on class Minesweeper, click Run Controller
